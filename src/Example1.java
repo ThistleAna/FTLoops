@@ -6,11 +6,10 @@ public class Example1 {
         // repeat 5 times
         for (int i=0; i < 5; i++) {
             // body of for loop, inside this will be repeated if condition is true
-            System.out.println("Kick the enemy!");
+            System.out.println(i + "- Kick the enemy!");
         }
 
         // this is outside the for loop
-
-
+        // put your code from Q1 here
     }
 }
